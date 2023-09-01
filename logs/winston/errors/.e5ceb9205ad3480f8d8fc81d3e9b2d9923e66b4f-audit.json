@@ -84,6 +84,46 @@
             "date": 1693497147489,
             "name": "C:\\Users\\HP\\Desktop\\Level 2\\university-management-core-service\\university-management-core-service-starter\\logs\\winston\\errors\\phu-2023-31-08-21-error.log",
             "hash": "8c2856b96eec160995d72f85e3805475120a1300b606edf73bb64113fca2a69b"
+        },
+        {
+            "date": 1693500180276,
+            "name": "C:\\Users\\HP\\Desktop\\Level 2\\university-management-core-service\\university-management-core-service-starter\\logs\\winston\\errors\\phu-2023-31-08-22-error.log",
+            "hash": "84f5c5bdef390969912ccb4ac62478ef8d86251f257dc5d6492fbef40d9e0f01"
+        },
+        {
+            "date": 1693502893806,
+            "name": "C:\\Users\\HP\\Desktop\\Level 2\\university-management-core-service\\university-management-core-service-starter\\logs\\winston\\errors\\phu-2023-31-08-23-error.log",
+            "hash": "652f3f4eaa9e4257965a4f1e3b52b54f6fc57bbc824b0405018f4a18ab8c690e"
+        },
+        {
+            "date": 1693556271883,
+            "name": "C:\\Users\\HP\\Desktop\\Level 2\\university-management-core-service\\university-management-core-service-starter\\logs\\winston\\errors\\phu-2023-01-09-14-error.log",
+            "hash": "f83d6fad8dc1697cec6a9debed90a20cc35e49b71e202e79afea86b4bd4f248e"
+        },
+        {
+            "date": 1693559018957,
+            "name": "C:\\Users\\HP\\Desktop\\Level 2\\university-management-core-service\\university-management-core-service-starter\\logs\\winston\\errors\\phu-2023-01-09-15-error.log",
+            "hash": "611956dbb467f93dfb5263ca71d1d3b2fb76014b394f6fd06472fc102cbaf0f8"
+        },
+        {
+            "date": 1693566783761,
+            "name": "C:\\Users\\HP\\Desktop\\Level 2\\university-management-core-service\\university-management-core-service-starter\\logs\\winston\\errors\\phu-2023-01-09-17-error.log",
+            "hash": "432545fa8d97d58cd42f9364ebe3d4c4c825404f8ae7a8134953f2d1f7f057d4"
+        },
+        {
+            "date": 1693570631118,
+            "name": "C:\\Users\\HP\\Desktop\\Level 2\\university-management-core-service\\university-management-core-service-starter\\logs\\winston\\errors\\phu-2023-01-09-18-error.log",
+            "hash": "bb3d9276f6eb75e4bb9c87a7ef5df8fab8926e2a8215e8d65d5c4e849173d6da"
+        },
+        {
+            "date": 1693573986850,
+            "name": "C:\\Users\\HP\\Desktop\\Level 2\\university-management-core-service\\university-management-core-service-starter\\logs\\winston\\errors\\phu-2023-01-09-19-error.log",
+            "hash": "91105cef2b3e071cf2aba46249eb81653f51f87cb79ef444dee00546d055786a"
+        },
+        {
+            "date": 1693591264002,
+            "name": "C:\\Users\\HP\\Desktop\\Level 2\\university-management-core-service\\university-management-core-service-starter\\logs\\winston\\errors\\phu-2023-02-09-00-error.log",
+            "hash": "dce8b19aa3c5ca851eb6f7e8f888ed170e989715a0a4e0eb9e61a9dc1c399c20"
         }
     ],
     "hashType": "sha256"
