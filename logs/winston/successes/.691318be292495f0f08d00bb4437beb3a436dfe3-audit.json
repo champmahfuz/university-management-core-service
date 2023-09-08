@@ -6,51 +6,6 @@
     "auditLog": "C:\\Users\\HP\\Desktop\\Level 2\\university-management-core-service\\university-management-core-service-starter\\logs\\winston\\successes\\.691318be292495f0f08d00bb4437beb3a436dfe3-audit.json",
     "files": [
         {
-            "date": 1692780368073,
-            "name": "C:\\Users\\HP\\Desktop\\Level 2\\university-management-core-service\\university-management-core-service-starter\\logs\\winston\\successes\\phu-2023-23-08-14-success.log",
-            "hash": "b0d2bd84d06b582f58f5c31118df3a15875272233d7ff7a91d2105f0c0eae6dc"
-        },
-        {
-            "date": 1692781398640,
-            "name": "C:\\Users\\HP\\Desktop\\Level 2\\university-management-core-service\\university-management-core-service-starter\\logs\\winston\\successes\\phu-2023-23-08-15-success.log",
-            "hash": "0377b41d8097adb8083dd9192d2f18b071d301fcab10fdb4685f60658b032f27"
-        },
-        {
-            "date": 1692797629038,
-            "name": "C:\\Users\\HP\\Desktop\\Level 2\\university-management-core-service\\university-management-core-service-starter\\logs\\winston\\successes\\phu-2023-23-08-19-success.log",
-            "hash": "be699ccf5b55a36905ab7fe622fcbeb74518c6da090ae7ede0a25e5e75410a77"
-        },
-        {
-            "date": 1692803311700,
-            "name": "C:\\Users\\HP\\Desktop\\Level 2\\university-management-core-service\\university-management-core-service-starter\\logs\\winston\\successes\\phu-2023-23-08-21-success.log",
-            "hash": "0f332b4a1cc0e54f8fe674f62cb7cd1b02179d12df04f14ae9810f68b93a0154"
-        },
-        {
-            "date": 1692806455708,
-            "name": "C:\\Users\\HP\\Desktop\\Level 2\\university-management-core-service\\university-management-core-service-starter\\logs\\winston\\successes\\phu-2023-23-08-22-success.log",
-            "hash": "4d6a96751f68a14bfe3a9213f6ecb12d02793d158d478081cb3596552d802e84"
-        },
-        {
-            "date": 1692810112611,
-            "name": "C:\\Users\\HP\\Desktop\\Level 2\\university-management-core-service\\university-management-core-service-starter\\logs\\winston\\successes\\phu-2023-23-08-23-success.log",
-            "hash": "b1735189bbdf83639d8b2b5435227ae1e6907e447d5ff8e338a88a9d7257e6d2"
-        },
-        {
-            "date": 1692980332987,
-            "name": "C:\\Users\\HP\\Desktop\\Level 2\\university-management-core-service\\university-management-core-service-starter\\logs\\winston\\successes\\phu-2023-25-08-22-success.log",
-            "hash": "c697db91045700fbdd76b20c3f87029ddfce8a3c9b87a7ccfcf4c01871c81a93"
-        },
-        {
-            "date": 1692983403617,
-            "name": "C:\\Users\\HP\\Desktop\\Level 2\\university-management-core-service\\university-management-core-service-starter\\logs\\winston\\successes\\phu-2023-25-08-23-success.log",
-            "hash": "083e69416f01247b2e11eba0314572d1626eef5a231a070a27c96a0c24bf1315"
-        },
-        {
-            "date": 1692987504634,
-            "name": "C:\\Users\\HP\\Desktop\\Level 2\\university-management-core-service\\university-management-core-service-starter\\logs\\winston\\successes\\phu-2023-26-08-00-success.log",
-            "hash": "09d399767d771a8403fc51713ed32ec5818d7d1bf774a1d88b85addedd882d92"
-        },
-        {
             "date": 1693070761334,
             "name": "C:\\Users\\HP\\Desktop\\Level 2\\university-management-core-service\\university-management-core-service-starter\\logs\\winston\\successes\\phu-2023-26-08-23-success.log",
             "hash": "123a40c2be2f2fdd08945e63d133354d0cbb5f4130da16e0bac53898ee8a690f"
@@ -144,6 +99,51 @@
             "date": 1693854406557,
             "name": "C:\\Users\\HP\\Desktop\\Level 2\\university-management-core-service\\university-management-core-service-starter\\logs\\winston\\successes\\phu-2023-05-09-01-success.log",
             "hash": "ce041ce177a8a3e3e6eca463ae6820cd975a9c922dfc816cfb154251769c4876"
+        },
+        {
+            "date": 1694008216400,
+            "name": "C:\\Users\\HP\\Desktop\\Level 2\\university-management-core-service\\university-management-core-service-starter\\logs\\winston\\successes\\phu-2023-06-09-19-success.log",
+            "hash": "6fdf407df19898d4e109498106b07c7dd97374848a316bfa29a02dc781e8919e"
+        },
+        {
+            "date": 1694009174867,
+            "name": "C:\\Users\\HP\\Desktop\\Level 2\\university-management-core-service\\university-management-core-service-starter\\logs\\winston\\successes\\phu-2023-06-09-20-success.log",
+            "hash": "79f6c2993b74e86ead4a5065dda858dc3ce135d1ba7c2ec630a1df21ea747e75"
+        },
+        {
+            "date": 1694018243435,
+            "name": "C:\\Users\\HP\\Desktop\\Level 2\\university-management-core-service\\university-management-core-service-starter\\logs\\winston\\successes\\phu-2023-06-09-22-success.log",
+            "hash": "bbb0795f4c38054ed67e1847a1b0c8c8046a203ada8afdd2203ce55dc696faba"
+        },
+        {
+            "date": 1694020025076,
+            "name": "C:\\Users\\HP\\Desktop\\Level 2\\university-management-core-service\\university-management-core-service-starter\\logs\\winston\\successes\\phu-2023-06-09-23-success.log",
+            "hash": "3bf220dd19ce48bcdc89640ac24035bfedabfc4644de4dd1fb9aeaf5899e4dbc"
+        },
+        {
+            "date": 1694173579651,
+            "name": "C:\\Users\\HP\\Desktop\\Level 2\\university-management-core-service\\university-management-core-service-starter\\logs\\winston\\successes\\phu-2023-08-09-17-success.log",
+            "hash": "e4ba956b91da0bf240765ca653363ff7fb633eb041b5e95cfed4545ebc13853f"
+        },
+        {
+            "date": 1694174541242,
+            "name": "C:\\Users\\HP\\Desktop\\Level 2\\university-management-core-service\\university-management-core-service-starter\\logs\\winston\\successes\\phu-2023-08-09-18-success.log",
+            "hash": "211ca8d5286ab024d6b4fce2aa04177961d31563c098ada80f4b8a4cf64a5f92"
+        },
+        {
+            "date": 1694193068176,
+            "name": "C:\\Users\\HP\\Desktop\\Level 2\\university-management-core-service\\university-management-core-service-starter\\logs\\winston\\successes\\phu-2023-08-09-23-success.log",
+            "hash": "05d2abfb9980036fc3978bde11d6317f0d14e12be432d7a27fc068312c74e5a3"
+        },
+        {
+            "date": 1694196131729,
+            "name": "C:\\Users\\HP\\Desktop\\Level 2\\university-management-core-service\\university-management-core-service-starter\\logs\\winston\\successes\\phu-2023-09-09-00-success.log",
+            "hash": "8865043ce201584c598f0e089729934bc6a568c40c13e447ab724fbc67d2623c"
+        },
+        {
+            "date": 1694200096475,
+            "name": "C:\\Users\\HP\\Desktop\\Level 2\\university-management-core-service\\university-management-core-service-starter\\logs\\winston\\successes\\phu-2023-09-09-01-success.log",
+            "hash": "ac1db3d0e42494c9bed456ff1beb95e1f7b7ab693ec2d8e7cb2b9cbe37ee5013"
         }
     ],
     "hashType": "sha256"
